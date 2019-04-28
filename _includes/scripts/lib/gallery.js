@@ -48,7 +48,7 @@
           '<div class="swiper__slide">' +
             '<div class="gallery-item">' +
               '<div class="gallery-item__content">' +
-                '<img src="' + item.src + '" style="width:' + size.w + 'px;height:' + size.h +  'px"/>' +
+                '<img src="' + item.src + '" style="width:' + size.w + 'px;height:' + size.h +  'px" alt="Gallery item"/>' +
               '</div>' +
             '</div>' +
           '</div>'
